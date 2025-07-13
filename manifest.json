@@ -1,0 +1,18 @@
+{
+  "name": "Life Tracker - Islamic Self-Improvement",
+  "short_name": "Life Tracker",
+  "description": "Track your daily activities, spiritual practices, and academic progress",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [],
+  "categories": ["productivity", "lifestyle", "education"],
+  "lang": "en",
+  "dir": "ltr",
+  "permissions": [
+    "background-sync",
+    "notifications"
+  ]
+}
